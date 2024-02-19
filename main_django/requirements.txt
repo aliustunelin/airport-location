@@ -1,0 +1,6 @@
+Django==5.0.2
+django-extensions==3.2.3
+djangorestframework==3.14.0
+pip==22.0.2
+setuptools==59.6.0
+sqlparse==0.4.4
