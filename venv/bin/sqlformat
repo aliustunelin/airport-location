@@ -1,4 +1,4 @@
-#!/home/aa/fehva/work/django-rest/lesson/venv/bin/python3
+#!/Users/alistnel/Desktop/fehva/work/django_web/lesson/venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
